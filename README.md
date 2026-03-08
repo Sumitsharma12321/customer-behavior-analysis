@@ -4,17 +4,11 @@
 This project analyzes customer shopping behavior using a structured data analytics workflow. The goal is to identify purchasing patterns, customer segments, and revenue drivers that can help businesses make better strategic decisions.
 
 The project follows a complete end-to-end analytics pipeline, including:
-
 Data loading and preprocessing in Python
-
 Exploratory Data Analysis (EDA)
-
 Data cleaning and feature engineering
-
 Business analysis using SQL
-
 Interactive dashboard creation in Power BI
-
 Report and presentation generation
 
 Dataset used: customer_shopping_behavior.csv
@@ -31,43 +25,27 @@ Report Customer Shopping Behavi…
 Key Columns
 
 Customer ID
-
 Age
-
 Gender
-
 Category
-
 Item Purchased
-
 Purchase Amount
-
 Review Rating
-
 Discount Applied
-
 Shipping Type
-
 Subscription Status
-
 Previous Purchases
-
 Location
 
-Data Issues Found
-
-37 missing values in review_rating
-
+Data Issues Found:- 37 missing values in review_rating
 Column naming inconsistencies
-
 Some redundant fields
-
 These were handled during the data cleaning stage. 
 
 Report Customer Shopping Behavi…
 
 🛠 Tools & Technologies
-Tool	Purpose
+Tool	                Purpose
 🐍 Python	Data processing & analysis
 📊 Pandas / NumPy	Data manipulation
 📈 Matplotlib / Seaborn	Data visualization
@@ -76,20 +54,16 @@ Tool	Purpose
 📓 Jupyter Notebook	Analysis environment
 📝 MS Word	Project report
 🎞 Gamma	Presentation (PPT)
+
+
 🔎 Project Workflow
 1️⃣ Data Loading
-
 The dataset was imported into Python using Pandas.
-
 Key tasks:
-
-Load CSV dataset
-
-Inspect dataset structure
-
-Check column types
-
-Identify missing values
+.Load CSV dataset
+.Inspect dataset structure
+.Check column types
+.Identify missing values
 
 2️⃣ Exploratory Data Analysis (EDA)
 
