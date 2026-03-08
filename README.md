@@ -54,8 +54,8 @@ These were handled during the data cleaning stage.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🔎 Project Workflow
-1️⃣ Data Loading
 
+1️⃣ Data Loading
 The dataset was imported into Python using Pandas.
 
 Key tasks:
