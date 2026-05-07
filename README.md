@@ -197,6 +197,7 @@ USE mydata;
 ### Power BI Dashboard
 - Open `customer_behaviour_analysis_Dashboard.pbix` in Power BI Desktop
 - Refresh data source if needed
+<img width="996" height="544" alt="image" src="https://github.com/user-attachments/assets/a04cfa06-ef82-494d-8f16-ade078e759ad" />
 
 ---
 
